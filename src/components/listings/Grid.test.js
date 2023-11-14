@@ -15,3 +15,7 @@ const dataTest = data[0].title;
 test("There is the letters 'JS' in this title", () => {
   expect(dataTest).toMatch(/JS/);
 });
+
+test("There is the word 'React' in this title", () => {
+  expect(dataTest).toContain("React");
+});
