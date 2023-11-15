@@ -17,7 +17,7 @@ export default class App extends Component {
           <nav className="blue lighten-2">
             <div className="nav-wrapper">
               <a href="/" className="brand-logo center" id="app-atag">
-                Courses
+                Course List
               </a>
             </div>
           </nav>
