@@ -17,7 +17,7 @@ exports[`App snapshot test 1`] = `
           href="/"
           id="app-atag"
         >
-          Courses
+          Course List
         </a>
       </div>
     </nav>
