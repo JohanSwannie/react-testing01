@@ -5,7 +5,7 @@ import App from "./App";
 test("renders the text 'Courses'", () => {
   render(<App />);
   const textDisplay = document.getElementById("app-atag").innerHTML;
-  expect(textDisplay).toMatch(/Courses/i);
+  expect(textDisplay).toMatch(/Course List/i);
 });
 
 test("App snapshot test", () => {
