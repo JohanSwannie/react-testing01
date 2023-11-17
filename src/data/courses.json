@@ -118,15 +118,5 @@
     "release_date": "04/10/2017",
     "views": "TBD",
     "image": "https://cdn.lynda.com/course/585078/585078-636270752903315067-16x9.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Migrating to Typescript 2",
-    "category": "typescript",
-    "description": "TypeScript is a newer Microsoft language built on JavaScript that is finding wide adoption in the Microsoft, Google, and Angular communities. Like many things JavaScript these days, TypeScript is changing rapidly as it grows. This course introduces the latest enhancements of this rapidly evolving language including kinds of types, approaches for interacting with types, and more.",
-    "link": "https://www.lynda.com/JavaScript-tutorials/Migrating-TypeScript-2/585078-2.html",
-    "release_date": "04/10/2017",
-    "views": "TBD",
-    "image": "https://cdn.lynda.com/course/585078/585078-636270752903315067-16x9.jpg"
   }
 ]
