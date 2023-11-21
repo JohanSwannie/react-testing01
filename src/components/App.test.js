@@ -6,6 +6,7 @@ test("renders the text 'Course List'", () => {
   render(<App />);
   const textDisplay = document.getElementById("app-atag").innerHTML;
   expect(textDisplay).toMatch(/Course List/i);
+  expect(textDisplay.length).toBeGreaterThanOrEqual(11);
 });
 
 test("App snapshot test", () => {
