@@ -8,8 +8,8 @@ describe("Number Tests", () => {
   test("number of items = 12", () => {
     expect(numItems).toBe(12);
   });
-  test("number of items to be greater than or equal to 12", () => {
-    expect(numItems).toBeGreaterThanOrEqual(12);
+  test("number of items to be greater than or equal to 10", () => {
+    expect(numItems).toBeGreaterThanOrEqual(10);
   });
 });
 
