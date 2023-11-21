@@ -37,7 +37,10 @@ describe("Arrays & Objects Tests", () => {
     );
   });
   test("The 1st course to have a property 'title'", () => {
-    expect(data[0]).toHaveProperty("title");
+    expect(data[0]).toHaveProperty(
+      "title",
+      "Building an App with ReactJS and MeteorJS"
+    );
   });
   test("The 1st course to have a property 'title' and a value of '31,266'", () => {
     expect(data[0]).toHaveProperty("views", "31,266");
